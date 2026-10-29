@@ -1,4 +1,4 @@
-@'
+
 # ClaimSage
 
 ClaimSage is an AI-powered insurance employee assistant.
@@ -30,4 +30,3 @@ ClaimSage is an AI-powered insurance employee assistant.
 ## Development status
 
 Initial project setup. Features are implemented and validated incrementally.
-'@ | Set-Content -Encoding utf8 README.md
